@@ -2,6 +2,8 @@ import random
 
 
 def minmax(numbers):
+    minval = min(numbers)
+    maxval = max(numbers)
     """
     ########################################
     Code Your Program here
